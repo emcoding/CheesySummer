@@ -9,7 +9,7 @@ Favorite issues to work on
 
 
 
-Programing Skills
+Programming Skills
 
 Skill Level 1
 a I understand and can explain the difference between data types (strings, booleans, integers)
@@ -63,13 +63,43 @@ I have gotten used to refactoring code
 Learning Goals
 
 Maud: 
-1) Feel confident in the Rails Framework 
+1) Feel confident in the Rails Framework including some important Gems
 2) Learn how to work together with Frontend developer in the same project (who does what and where) ;
 and learn how to implement Frontend elements in existing Rails project (like how to add a CSS)
 3) Getting comfortable with git and github (push, pull, merge, branche, fork) pref from the terminal;
 getting more comfortable with contributing to (open source) projects in GitHub. 
-4) Learn when and how to do TDD (of BDD?)
-5) Get an overview on what I need to work on next to get a job as a junior developer
+4) Learn when and how to do TDD (or BDD?)
+5) Learn basics of mySQL and Progres (as far as relevant to building Rails apps)
+6) Get an overview on what I need to work on next to get a job as a junior developer
+7) Added bonus: learn how to combine Rails and Ajax; implementing Rails for mobile apps
+
+Roos
+#add learning goals
+
+
+
+
+
+Favorite features in Rails App project
+
+1) https://github.com/rails-girls-summer-of-code/rgsoc-teams/issues/60 Dashboard
+Maud: this looks like a perfect match for a frontend/backend team !
+
+2) https://github.com/rails-girls-summer-of-code/rgsoc-teams/issues/184 (DRY up user fields) : 
+Maud: I love clean code. I even love decluttering code
+
+3) https://github.com/rails-girls-summer-of-code/rgsoc-teams/issues/7 Add tests to make sure only admins can add :supervisor/:organizer roles 
+Maud: I like to learn about authorisations
+
+4) https://github.com/rails-girls-summer-of-code/rgsoc-teams/issues/136 
+Maud: not sure if I do understand this, but looks like a nice pair with #3
+
+
+
+
+@Roos: Isn't this a real nice Frontend thingy: https://github.com/rails-girls-summer-of-code/rgsoc-teams/issues/108
+And this one: https://github.com/rails-girls-summer-of-code/rgsoc-teams/issues/35 
+
 
 
 
