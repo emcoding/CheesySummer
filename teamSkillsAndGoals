@@ -2,6 +2,12 @@ Team Cheesy
 Roos de Bildt Frontend
 Maud de Vries Backend
 
+INDEX: 
+Programming Skills
+Learning Goals
+Favorite issues to work on
+
+
 
 Programing Skills
 
@@ -57,10 +63,13 @@ I have gotten used to refactoring code
 Learning Goals
 
 Maud: 
-1) Feel confident enough in the Rails Framework to start my own real project (not an demo-app; i can do that)
-2) Learn how to work together with Frontend developer in the same project (who does what and where) 
-3) Getting comfortable with git and github (push, pull, merge, branche, fork) pref from the terminal
-4) 
+1) Feel confident in the Rails Framework 
+2) Learn how to work together with Frontend developer in the same project (who does what and where) ;
+and learn how to implement Frontend elements in existing Rails project (like how to add a CSS)
+3) Getting comfortable with git and github (push, pull, merge, branche, fork) pref from the terminal;
+getting more comfortable with contributing to (open source) projects in GitHub. 
+4) Learn when and how to do TDD (of BDD?)
+5) Get an overview on what I need to work on next to get a job as a junior developer
 
 
 
